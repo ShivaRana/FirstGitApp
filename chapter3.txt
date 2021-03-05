@@ -1,3 +1,5 @@
 This is an updated text.
 
 Here comes more text related to chapter3.
+
+This line should be more specific related to git app.
