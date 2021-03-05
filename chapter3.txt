@@ -1,1 +1,3 @@
 This is an updated text.
+
+Here comes more text related to chapter3.
